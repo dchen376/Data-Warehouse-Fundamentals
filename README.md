@@ -32,9 +32,20 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ![image](https://github.com/user-attachments/assets/5630bc08-df70-4c31-a003-fe53be8c9946)
 
 ### Selecting a Data Warehouse System
-![image](https://github.com/user-attachments/assets/a6e594fe-5cf0-4321-9c71-05f8c5f35a24)
+![image](https://github.com/user-attachments/assets/0b2bcc00-65c3-4104-a21a-37c672eafc79)
 
+#### Evaluating data warehouse systems
+![image](https://github.com/user-attachments/assets/3c689828-774b-442d-ba30-c29b7a0f6444)
 
+![image](https://github.com/user-attachments/assets/b91948e3-1a65-4358-b579-b627788aa632)
+![image](https://github.com/user-attachments/assets/a624c9ca-0302-49ca-aebf-9e0c62321ab9)
+![image](https://github.com/user-attachments/assets/b9a5cd21-d92a-4688-80ad-04b44ed66d21)
+![image](https://github.com/user-attachments/assets/2ee3fc43-cea4-45d5-8367-bdfe1ba68ac1)
+![image](https://github.com/user-attachments/assets/e34f664a-d36c-4d9f-81f6-b3f7e81bb803)
+![image](https://github.com/user-attachments/assets/c08fc3c5-103a-4863-8492-5bdaa143ae71)
+![image](https://github.com/user-attachments/assets/bf8d7f18-718b-46b7-b595-45eac7cc96e9)
+
+![image](https://github.com/user-attachments/assets/0506a28e-8866-4aa4-8378-baa0d545032d)
 
 
 
