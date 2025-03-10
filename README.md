@@ -25,6 +25,8 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 - on premises and cloud
 ![image](https://github.com/user-attachments/assets/7abdcf98-da0c-43d4-a881-98f4b5d430cd)
 ![image](https://github.com/user-attachments/assets/27056db5-e9d2-4308-8ec3-746ea1869085)
+![image](https://github.com/user-attachments/assets/78ae99eb-adc3-4c55-aaf8-6aa341628863)
+![image](https://github.com/user-attachments/assets/a81a5753-5943-414b-9031-6ac8faaccda5)
 
 
 
