@@ -31,6 +31,9 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 ![image](https://github.com/user-attachments/assets/5630bc08-df70-4c31-a003-fe53be8c9946)
 
+### Selecting a Data Warehouse System
+![image](https://github.com/user-attachments/assets/a6e594fe-5cf0-4321-9c71-05f8c5f35a24)
+
 
 
 
