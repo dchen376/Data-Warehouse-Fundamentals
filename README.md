@@ -27,6 +27,10 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ![image](https://github.com/user-attachments/assets/27056db5-e9d2-4308-8ec3-746ea1869085)
 ![image](https://github.com/user-attachments/assets/78ae99eb-adc3-4c55-aaf8-6aa341628863)
 ![image](https://github.com/user-attachments/assets/a81a5753-5943-414b-9031-6ac8faaccda5)
+![image](https://github.com/user-attachments/assets/fec01f12-7521-47aa-8e4b-e377ef1097ed)
+
+![image](https://github.com/user-attachments/assets/5630bc08-df70-4c31-a003-fe53be8c9946)
+
 
 
 
