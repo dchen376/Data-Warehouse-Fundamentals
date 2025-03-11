@@ -54,6 +54,22 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ![image](https://github.com/user-attachments/assets/629268e9-ca0b-4df0-ade6-cd3983f06f06)
 ![image](https://github.com/user-attachments/assets/54cbdccd-daff-4df2-aa18-503325699431)
 
+![image](https://github.com/user-attachments/assets/88e76b4a-8827-4594-b5ac-7e4d70e170e7)
+![image](https://github.com/user-attachments/assets/150f3bd7-fc59-492e-851f-3a244dcab9b0) *
+
+#### types of data marts
+![image](https://github.com/user-attachments/assets/6402ce1a-4222-4609-9de7-028f5f436bce)
+![image](https://github.com/user-attachments/assets/fc5321d5-b60f-4116-8976-7f2285f415fc)
+![image](https://github.com/user-attachments/assets/779fd328-143d-43db-af51-9b8f5b68ba53)
+
+![image](https://github.com/user-attachments/assets/89d21a51-e567-4635-b0e6-2c09aa47ba00)
+![image](https://github.com/user-attachments/assets/7e20a746-9efc-4ace-badf-179c8fb5704d)
+
+![image](https://github.com/user-attachments/assets/074ce10b-917e-44da-b617-dd400878045a)
+
+![image](https://github.com/user-attachments/assets/a986778b-9d06-4c2c-91ec-64d6ccc0bd04)
+
+
 
 
 
