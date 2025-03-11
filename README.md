@@ -199,8 +199,11 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 ![image](https://github.com/user-attachments/assets/33349bf9-b2c0-4a1b-a141-95a8ecb7e2f1)
 
+![image](https://github.com/user-attachments/assets/663e12cd-eb6f-44e9-b239-7753c28cec8f)
 
+![image](https://github.com/user-attachments/assets/0b854ea7-9f04-4c9c-8237-1797d1d744d9)
 
+#### functions
 
 
 
