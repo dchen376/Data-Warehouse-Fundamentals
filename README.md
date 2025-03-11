@@ -233,6 +233,56 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 ![image](https://github.com/user-attachments/assets/1db2ca43-09c0-4f62-a556-4f2379574d9a)
 
+### Populating a Data Warehouse
+![image](https://github.com/user-attachments/assets/1901eb1e-0a6b-46db-921b-d257380b20e2)
+- loading frequency
+![image](https://github.com/user-attachments/assets/d0035978-a6da-44b3-a3fd-20246de749d8)
+![image](https://github.com/user-attachments/assets/5ea48542-68e7-46a2-8ad7-d8f103439d2a)
+![image](https://github.com/user-attachments/assets/3a35c0ce-7b83-422f-b708-a77a6e0c93f1)
+
+- change detection
+  ![image](https://github.com/user-attachments/assets/7b4730f4-7a0f-41d8-bc56-88b0867994a1)
+
+- periodic maintenance
+  ![image](https://github.com/user-attachments/assets/56b278b9-0f3b-4e47-929e-7a75365a6966)
+
+#### example
+![image](https://github.com/user-attachments/assets/6c39ebb3-5878-4ac2-b228-3bda86bd8764)
+![image](https://github.com/user-attachments/assets/0a3e3a7d-a0d6-489b-832f-e292f2e66061)
+![image](https://github.com/user-attachments/assets/3b67e100-1139-4375-910d-0e80714b7bb0)
+![image](https://github.com/user-attachments/assets/ef2ff497-29b7-4ad8-b9c3-daac6d24daed)
+![image](https://github.com/user-attachments/assets/09c9bdf8-7e5c-45b2-9a4f-2d567bfb41d4)
+![image](https://github.com/user-attachments/assets/f1a25225-643c-4d84-bdec-baca3d42ab67)
+![image](https://github.com/user-attachments/assets/cd81e9e7-12df-4dca-8641-21e4addfa41a)
+
+![image](https://github.com/user-attachments/assets/0562bd39-9619-40c9-a2af-69b48de5d697)
+
+### Querying the Data
+![image](https://github.com/user-attachments/assets/132526ac-1e6e-47b4-b4aa-335b9525dbef)
+![image](https://github.com/user-attachments/assets/8e50b3d3-4f36-434f-880e-aece629393f1)
+
+#### example
+![image](https://github.com/user-attachments/assets/07f351ec-14d6-4e17-a85e-b75fff3d2e80)
+- a staging table
+![image](https://github.com/user-attachments/assets/74df58bb-fcda-4295-bead-50f5fa189bc5)
+![image](https://github.com/user-attachments/assets/a13ebdc2-7662-446f-baed-bff34305bfc3)
+![image](https://github.com/user-attachments/assets/f69a169f-f3e5-4f24-b30e-060a2331315e)
+![image](https://github.com/user-attachments/assets/05e1c271-b692-44eb-a2c8-306385320136)
+- denomarlized view
+![image](https://github.com/user-attachments/assets/e26c88c8-9277-4b83-ae0f-ea121ae4a277)
+
+- cube and roll up operations
+  - cube 
+  ![image](https://github.com/user-attachments/assets/b941abbe-d8ef-4750-8a39-a71ebd111dce)
+![image](https://github.com/user-attachments/assets/4d21ec60-ee3d-48e2-bc4b-deb42d5a7415)
+  - roll up
+    ![image](https://github.com/user-attachments/assets/5ddd9e0d-07c3-4913-a764-63f45ebebec2)
+
+![image](https://github.com/user-attachments/assets/e1942d69-8662-4051-a0ea-80c3c2302e92)
+
+
+
+
 
 
 
