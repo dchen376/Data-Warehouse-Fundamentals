@@ -201,9 +201,37 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 ![image](https://github.com/user-attachments/assets/663e12cd-eb6f-44e9-b239-7753c28cec8f)
 
-![image](https://github.com/user-attachments/assets/0b854ea7-9f04-4c9c-8237-1797d1d744d9)
-
 #### functions
+![image](https://github.com/user-attachments/assets/ae70985b-dd12-45ca-9f2a-f2d22a00d4a5)
+![image](https://github.com/user-attachments/assets/948d9273-73a5-4b68-9516-8c043abc4cbc)
+
+![image](https://github.com/user-attachments/assets/0b019407-7ff0-4006-bb02-3ae80dca9e9b)
+
+![image](https://github.com/user-attachments/assets/72855de1-5fe1-4417-b8a6-d9bfa7dd0c1f)
+
+### Verify Data Quality
+![image](https://github.com/user-attachments/assets/32aa7530-b05d-42cb-b1ba-a3084db2c4d1)
+
+![image](https://github.com/user-attachments/assets/652314c6-ee33-45c7-939e-b34af97fe257)
+
+- quality concerns
+  ![image](https://github.com/user-attachments/assets/e2987ec3-e0c3-4c4b-bcb2-222a39f22be3)
+![image](https://github.com/user-attachments/assets/5c418dfb-c97c-4d03-aa73-32a97f6df58d)
+![image](https://github.com/user-attachments/assets/b9254a2b-668a-4c84-b8f5-7b8277a46b6d)
+
+![image](https://github.com/user-attachments/assets/3546f1f9-c6fd-4efd-b8f0-2e2bc9a5c402)
+
+- example
+  ![image](https://github.com/user-attachments/assets/688a5f2e-baaa-4151-b0a3-c59125ba1341)
+
+- data quality solutions
+  ![image](https://github.com/user-attachments/assets/1a56e914-fbb6-408d-af79-d37103081566)
+
+  - IBM infoSphere
+    ![image](https://github.com/user-attachments/assets/40da39d9-b041-4190-9f00-4f620a3a671f)
+![image](https://github.com/user-attachments/assets/e8f6ff64-d0d0-40a6-aedb-b5ffce10eda7)
+
+![image](https://github.com/user-attachments/assets/1db2ca43-09c0-4f62-a556-4f2379574d9a)
 
 
 
