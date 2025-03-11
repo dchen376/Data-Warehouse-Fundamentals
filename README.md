@@ -283,9 +283,9 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 
 
-
-
-
-
-
 ## M3 - Final Assignment
+![image](https://github.com/user-attachments/assets/cc239d8d-3095-468c-bd80-bb4f311de3a0)
+
+
+
+
