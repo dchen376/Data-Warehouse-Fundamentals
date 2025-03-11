@@ -108,6 +108,102 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 
 
 ## M2 - Designing, Modeling and Implementing Data Warehouses
+![image](https://github.com/user-attachments/assets/911285e7-a077-4ee0-80aa-6d0482c2cb12)
+
+
+### Overview of Data Warehouse Architectures
+![image](https://github.com/user-attachments/assets/62806164-4abb-429b-8650-6b0ac19f11c3)
+![image](https://github.com/user-attachments/assets/7bb8e53e-3cc3-40d3-b8d8-09172844f469)
+
+![image](https://github.com/user-attachments/assets/cac3b2fc-00dd-440d-8d81-974f93b1e83d)
+![image](https://github.com/user-attachments/assets/1073fc5c-295b-4ba5-bb52-c07bb7006781)
+
+![image](https://github.com/user-attachments/assets/de999d0c-68c5-478c-b28b-a14c40b3eafc)
+![image](https://github.com/user-attachments/assets/3be2dd25-2df7-492f-9112-1e4001f980d9)
+
+![image](https://github.com/user-attachments/assets/24dc9834-4ea5-4df4-8f2c-da83c35239ca)
+
+### Cubes, Rollups, and Materialized Views and Tables
+![image](https://github.com/user-attachments/assets/1951c8a2-62f9-4c2d-97b2-d2ca275e2b94)
+
+#### Cubes
+![image](https://github.com/user-attachments/assets/3af87d09-1870-4a5e-b108-524acf7ffaa9)
+
+
+#### slicing, dicing, drilling up or down, pivoting, rolling up
+![image](https://github.com/user-attachments/assets/2dd34541-1383-4e82-be55-ee10c18d1256)
+![image](https://github.com/user-attachments/assets/36ce0038-3ebb-4551-8143-61f9f3ebe753)
+![image](https://github.com/user-attachments/assets/42a3503e-5089-4c4d-bfe9-a448702f5cce) *drilling down
+![image](https://github.com/user-attachments/assets/5406d7c8-78d7-437a-95cb-19533f0da778)
+![image](https://github.com/user-attachments/assets/ff66f332-cdef-493d-92b0-803076d843cb)
+
+
+
+#### Materialized Views & Tables
+(a snapshot)
+![image](https://github.com/user-attachments/assets/0d6bc522-0efd-46be-b509-53b559bbd6eb)
+![image](https://github.com/user-attachments/assets/a18fd5bf-f6a8-413a-b42b-3d32b78b9349)
+
+![image](https://github.com/user-attachments/assets/578c2e1e-0fdc-41b7-a5c4-2cbc8234d2c6)
+![image](https://github.com/user-attachments/assets/cf763abe-7bf6-41a7-a12e-c2bcbef7b410)
+
+![image](https://github.com/user-attachments/assets/abc04f45-e80e-4a1c-81f1-e8e41abb30c2)
+
+![image](https://github.com/user-attachments/assets/addf57d1-63e3-43ef-8d72-e5d59e11e4c1)
+
+
+### Facts and Dimensional Modeling
+![image](https://github.com/user-attachments/assets/1c076f1c-ff13-454d-87e3-09d1bf93f35f)
+![image](https://github.com/user-attachments/assets/ff4763ef-c8d2-474d-8c44-e5e3ace69671) *
+
+![image](https://github.com/user-attachments/assets/7eb949b8-ba82-4e07-b548-52af48a928f6)
+![image](https://github.com/user-attachments/assets/6d78aab9-5477-42bf-8e7e-0b549fd9e509)
+![image](https://github.com/user-attachments/assets/6e0500d4-c6b5-41cf-a1e7-fb891c17b4c4)
+![image](https://github.com/user-attachments/assets/6563da1d-dc69-4ac0-a936-6acc33824429)
+
+#### example
+![image](https://github.com/user-attachments/assets/18efcea8-4a88-42bf-8d63-62bed5e40f58)
+
+![image](https://github.com/user-attachments/assets/b4811ec8-32f0-4ea6-984b-c3f7d0c276a4)
+
+
+### Data Modeling using Star and Snowflake Schemas
+![image](https://github.com/user-attachments/assets/60b2f585-609c-478d-a5a2-d5490cfe6e37)
+
+#### star schema
+![image](https://github.com/user-attachments/assets/4f669763-42c1-42af-bf0a-7990d22a6779)
+
+#### snowflake schemas 
+![image](https://github.com/user-attachments/assets/2d9c40df-ba75-42d1-b6ce-3c46f921aa69)
+
+
+![image](https://github.com/user-attachments/assets/a97d7981-6cb6-4a4a-bea1-016d41c9cbee)
+- example
+![image](https://github.com/user-attachments/assets/542aae7b-5227-42e3-a8b4-f4c6b48dff8a)
+![image](https://github.com/user-attachments/assets/31ed4ae6-232a-4e99-8eb5-2a3a97c02bae)
+(from star to snowflake schema)
+![image](https://github.com/user-attachments/assets/3f2ac591-16df-422e-b369-62cd72e64f5e)
+
+![image](https://github.com/user-attachments/assets/701f9493-8577-4b52-a249-9a13a04fafae)
+
+### Understanding Slowly Changing Dimensions (SCD)
+![image](https://github.com/user-attachments/assets/95627ec4-f059-424a-9820-ddf764f26252) *
+![image](https://github.com/user-attachments/assets/9d97ee25-3634-45fb-a8f5-6cdbe31b5d1a)
+
+### Data Warehousing with Star and Snowflake schemas
+![image](https://github.com/user-attachments/assets/e3ebd5f6-cd61-43c1-bd54-8f81e83e9b5b)
+
+
+### Staging Areas for Data Warehouses
+![image](https://github.com/user-attachments/assets/dac8dc99-ba3d-4bd2-8843-ae3414a216bf) * staging area
+
+![image](https://github.com/user-attachments/assets/33349bf9-b2c0-4a1b-a141-95a8ecb7e2f1)
+
+
+
+
+
+
 
 
 
