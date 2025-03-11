@@ -70,8 +70,38 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ![image](https://github.com/user-attachments/assets/a986778b-9d06-4c2c-91ec-64d6ccc0bd04)
 
 
+### IBM Db2 Warehouse
+![image](https://github.com/user-attachments/assets/249d7eca-9825-4090-bd2e-822c27664231)
+
+### Data Lakes Overview
+![image](https://github.com/user-attachments/assets/3b6afda0-c337-4eed-8161-00e042e1073e)
+(store structued, unstructured, or semi-structured data)
+![image](https://github.com/user-attachments/assets/94dbd795-1441-493a-9aa6-cfa45ba48dfa)
+
+![image](https://github.com/user-attachments/assets/db838743-8e78-4814-b824-51857c75ccc7)
+
+![image](https://github.com/user-attachments/assets/2f04b6cf-6c55-422c-b9ae-fecdc889a94c)
+
+![image](https://github.com/user-attachments/assets/7a7698ff-b821-439f-b15b-b55e4f02d39d)
+
+- vendors
+![image](https://github.com/user-attachments/assets/2db2efaa-e7e0-4106-890a-9982a079b2d8)
+
+![image](https://github.com/user-attachments/assets/2b4e3a8c-3981-48fa-8b14-58e34065efab)
+![image](https://github.com/user-attachments/assets/dec6d6a5-6826-4113-8f04-6cfc0e00a690)
+
+![image](https://github.com/user-attachments/assets/f230109e-54b1-4fa8-ba77-c04e62aa12c0)
+
+![image](https://github.com/user-attachments/assets/3780cdb4-9258-4889-ad87-772f4d74ed4b)
+
+![image](https://github.com/user-attachments/assets/61e91d8d-ca6b-48a1-a9d3-f1cd3b09c727)
 
 
+### Data Lakehouses Explained
+![image](https://github.com/user-attachments/assets/b88f456c-4f81-40b6-8920-62a0cdc3dcf5)
+- data lakehouse
+![image](https://github.com/user-attachments/assets/abd65eba-3e41-42ac-be28-4cde170d7014)
+![image](https://github.com/user-attachments/assets/a172979d-33ae-4080-a0c2-41ad25610f2f)
 
 
 
