@@ -51,8 +51,6 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ### Data Marts
 ![image](https://github.com/user-attachments/assets/373ce247-1530-409c-af27-43a190a9ad77)
 
-![image](https://github.com/user-attachments/assets/a300fe12-2a3b-4156-912b-3d482af43cd8)
-
 ![image](https://github.com/user-attachments/assets/629268e9-ca0b-4df0-ade6-cd3983f06f06)
 ![image](https://github.com/user-attachments/assets/54cbdccd-daff-4df2-aa18-503325699431)
 
