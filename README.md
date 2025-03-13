@@ -286,6 +286,29 @@ https://www.coursera.org/learn/data-warehouse-fundamentals/
 ## M3 - Final Assignment
 ![image](https://github.com/user-attachments/assets/cc239d8d-3095-468c-bd80-bb4f311de3a0)
 
+### Course Wrap-Up
+![image](https://github.com/user-attachments/assets/f216eff6-0c42-4010-8acc-773bb048be11)
+![image](https://github.com/user-attachments/assets/a3a31fe5-466d-4a24-99e2-7df564a45846)
+![image](https://github.com/user-attachments/assets/35448f6a-d5fc-48d6-acd0-1759896b44f6)
+![image](https://github.com/user-attachments/assets/9f38948e-147b-413f-834a-ce0fe43e9b8e)
+![image](https://github.com/user-attachments/assets/6e41e285-96de-413e-aea7-3113bdc35b87)
+![image](https://github.com/user-attachments/assets/0efd40c0-4bde-4a67-ad18-fe67882fea06)
+![image](https://github.com/user-attachments/assets/07797c5e-bf33-4edd-847c-4bebc7b5f806)
+
+![image](https://github.com/user-attachments/assets/71b39b86-acd2-43e1-8b20-cdba282ecbbd)
+![image](https://github.com/user-attachments/assets/54a81df7-f29f-40fe-a60d-be45342c7200)
+
+![image](https://github.com/user-attachments/assets/c8ff1340-6d98-4719-a3dd-3531971ce757)
+
+![image](https://github.com/user-attachments/assets/bf2b698e-9336-495e-bcc0-cf3535002d17)
+![image](https://github.com/user-attachments/assets/a09a2f51-56d5-4c6f-88d5-487a39b5570a)
+![image](https://github.com/user-attachments/assets/65d9771a-2a12-4e32-b2ea-4a30b3a97cf5)
+
+![image](https://github.com/user-attachments/assets/ee2e9f43-675a-4e1c-b81f-9d10753672cd)
+
+
+
+
 
 
 
